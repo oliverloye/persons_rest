@@ -1,0 +1,7 @@
+rest/PersonResource.class
+rest/GenericResource.class
+facade/FacadePerson.class
+entity/Person.class
+Runner/Execute.class
+facade/FacadePersonInterface.class
+rest/ApplicationConfig.class
